@@ -15,6 +15,11 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.logo {
+    width: 100px; /* Adjust the width of the logo as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px;
+}
 h1 {
     color: #333;
     font-size: 3em;
